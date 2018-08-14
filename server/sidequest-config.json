@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    {
+      "name": "teste",
+      "path": "task.js",
+      "cron": "* * * * * *"
+    }
+  ]
+}
