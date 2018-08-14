@@ -14,9 +14,7 @@
     "axios": "^0.18.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "sidequest": "0.0.1-nightbuild-8",
-    "sidequest-dashboard": "0.0.1-nightbuild-1"
+    "react-dom": "^16.4.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -31,6 +29,8 @@
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.0",
     "html-webpack-plugin": "^3.2.0",
+    "sidequest": "0.0.1-nightbuild-8",
+    "sidequest-dashboard": "0.0.1-nightbuild-1",
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.5"
